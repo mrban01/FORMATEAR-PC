@@ -7,7 +7,7 @@
 # •¿COMO FUNCIONA? 
 * Una vez hayas engañado a la víctima para que se lo instale, pues al momento de que la víctima ejecute el programa, se abre un iframe, haciendo crear a la persona que es algún programa, pero en segundo plano se están borrando sus archivos
 
-![](https://i.ibb.co/zSd3P5Q/ejemplo-programa.jpg)
+![](https://i.ibb.co/yQV3R21/PROGRAMA-ICLOUD-PANTALLA.jpg)
 ###
 
 ------
