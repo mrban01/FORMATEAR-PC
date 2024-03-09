@@ -1,4 +1,5 @@
-# • FORMATEAR DISCO (VERSIÓN BÁSICA)
+# • FORMATEAR DISCO (VERSIÓN BÁSICA) 
+Si quieres la versión completa, contacta con [**MR-/BAN HELL**](https://t.me/mrban01)  
 
 ------
 * Esta herramienta consiste en hacerse pasar por un programa legítimo, pero en realidad está borrando el disco de la víctima
