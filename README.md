@@ -1,4 +1,4 @@
-# • FORMATEAR PC
+# • FORMATEAR DISCO (VERSIÓN BÁSICA)
 
 ------
 * Esta herramienta consiste en hacerse pasar por un programa legítimo, pero en realidad está borrando el disco de la víctima
